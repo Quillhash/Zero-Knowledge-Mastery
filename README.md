@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> Zero Knowledge Roadmap</h1>
+  <h1 align="center"> Zero Knowledge Mastery </h1>
     <p align="center"> A comprehensive list of resources to master Zero Knowledge Proofs </p>
   <p align="center">
      <a href="https://blog.quillaudits.com/">
@@ -175,6 +175,7 @@
 
 ## Application and Use Cases
 - [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/posts/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/)
+- [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
 - [Reinventing Vulnerability Disclosure using Zero-knowledge Proofs](https://blog.trailofbits.com/2020/05/21/reinventing-vulnerability-disclosure-using-zero-knowledge-proofs/)
 - [Zero Knowledge Proof and its Applications in Bitcoin](https://xiaohuiliu.medium.com/zero-knowledge-proof-and-its-applications-in-bitcoin-aca833d7d745)
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash/)
@@ -182,9 +183,23 @@
 - [A Flexible Network Approach to Privacy of Blockchain Transactions](https://arxiv.org/pdf/1807.11338.pdf)
 - [Quisquis: A New Design for Anonymous Cryptocurrencies](https://eprint.iacr.org/2018/990.pdf)
 - [Pinocchio: Nearly Practical Verifiable Computation](https://eprint.iacr.org/2013/279.pdf)
+- [Waku: a suite of privacy-preserving, peer-to-peer messaging protocols](https://waku.org)
+- [StealthDrop: Anonymous Airdrops using ZK proofs](https://github.com/nalinbhardwaj/stealthdrop)
+- [zk-NftMint: Mint an NFT if you know a secret](https://github.com/weijiekoh/zknftmint)
+- [Loopring  zkRollup Exchange](https://medium.com/loopring-protocol/loopring-launches-zkrollup-exchange-loopring-io-d6a85beeed21)
+- [zk-SQL: Self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL)
+- [Hyper Oracle: Programmable zkOracle network ](https://hyperoracle.io/)
+- [Foundation's Proof Market](https://proof.market.nil.foundation)
+- [Integrating Zerocash on Ethereum](https://github.com/clearmatics/zeth)
+
 
 
 ## Opensource Projects
+- [ZK EVM](https://t.co/HE4D8lJfkt)
+- [Starknet](https://t.co/8LR9MHvVnV)
+- [ZK Sync](https://t.co/DQpoHdsR0C)
+- [Light Protocol on Solana](https://www.lightprotocol.com/)
+- [Tornado Cash](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 - [ZKaggle](https://ethglobal.com/showcase/zkaggle-70g3b)
 - [ZKPhoto](https://github.com/socathie/zkPhoto)
 
