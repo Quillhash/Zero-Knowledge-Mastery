@@ -41,11 +41,12 @@
 
 
 ## Introduction
-- [How To Create a ZK Smart Contract](https://medium.com/cyfrin/how-to-create-a-zk-smart-contract-cd948a673749)
+- [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
 - [zk-SNARK Concepts Explained Like You’re 15](https://sjkelleyjr.medium.com/zk-snark-concepts-explained-like-youre-15-54755f87c6d1)
+- [Computer Scientist Explains One Concept in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=fOGdb1CTu5c)
+- [How To Create a ZK Smart Contract](https://medium.com/cyfrin/how-to-create-a-zk-smart-contract-cd948a673749)
 - [What Is Zero-knowledge Proof and How Does It Impact Blockchain?](https://academy.binance.com/en/articles/what-is-zero-knowledge-proof-and-how-does-it-impact-blockchain)
 - [Introduction to Zero Knowledge Proofs](https://www.youtube.com/watch?v=BT88s7_VtC8) : Youtube
-- [Computer Scientist Explains One Concept in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=fOGdb1CTu5c)
 - [What to know about Zero Knowledge](https://archive.devcon.org/archive/watch/6/what-to-know-about-zero-knowledge/?tab=YouTube)
 - [A beginner's intro to coding zero-knowledge proofs](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
 - [ZKPs for Engineers: Introduction](https://blog.zkga.me/intro-to-zksnarks)
