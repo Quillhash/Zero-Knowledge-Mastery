@@ -14,8 +14,7 @@
       <img alt="Substack" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">
     </a>
    
-  </p>
-                   
+  </p>                   
 </div>
 
 ![](https://github.com/Quillhash/Zero-Knowledge-Mastery/blob/main/files/Zero%20Knowledge%20Mastery.png)
