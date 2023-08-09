@@ -15,9 +15,12 @@
     </a>
    
   </p>
-                    
-    
+                   
 </div>
+
+![](https://github.com/Quillhash/Zero-Knowledge-Mastery/blob/main/files/Zero%20Knowledge%20Mastery.png)
+
+[Zero-Knowledge_Mastery.pdf](https://github.com/Quillhash/Zero-Knowledge-Mastery/blob/main/files/Zero%20Knowledge%20Mastery.pdf) 
 
 ## Content
 1. [Introduction](#introduction)
