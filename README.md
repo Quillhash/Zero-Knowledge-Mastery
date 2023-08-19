@@ -72,6 +72,7 @@
 - [Algebraic Number Theory](https://kashanu.ac.ir/Files/Content/ANT.pdf)
 - [Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf)
 - [Lattice Cryptography](https://eprint.iacr.org/2015/939.pdf)
+- [The Mathematics behind zkSNARKS](https://www.youtube.com/watch?v=iRQw2RpQAVc)
 
 
 ## Courses
