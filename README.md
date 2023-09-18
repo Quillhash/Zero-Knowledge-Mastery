@@ -240,7 +240,8 @@
 - [Zero Knowledge Database : Notion ](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
 - [Zero Knowledge Blog](https://www.zeroknowledgeblog.com)
   
-## Security 
+## Security
+- [zk Bug Tracker - Github](https://github.com/0xPARC/zk-bug-tracker)
 - [Circom-Pairing: A Million-Dollar ZK Bug Caught Early](https://medium.com/veridise/circom-pairing-a-million-dollar-zk-bug-caught-early-c5624b278f25)
 - [ZK privacy landscape > Zero-knowledge privacy-enhancing solutions](https://github.com/web3privacy/web3privacy/blob/main/ZKprivacylandscape/Readme.md)
 - [DeFi security Summit 2023 - Session 12: Vulnerabilities & Exploits - Dmitry Khovratovich](https://www.youtube.com/watch?v=r1j3zfjar-4&t=276s)
