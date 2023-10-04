@@ -83,6 +83,7 @@
 - [ZK Battleship sCrypt](https://academy.scrypt.io/)
 - [A Practical Guide To Building Zero Knowledge dApps](https://kndrck.co/posts/practical_guide_build_zk_dapps/)
 - [Getting Started with zkSnarks on ZoKrates](https://blog.gnosis.pm/getting-started-with-zksnarks-zokrates-61e4f8e66bcc)
+- [ZK AUDITING FELLOWSHIP - yacademy](https://yacademy.dev/fellowships/zBlock1/)
 
 ## Programming Languages 
 ### [Programming Languages in ZKP](https://medium.com/delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
