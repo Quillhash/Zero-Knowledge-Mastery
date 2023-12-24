@@ -84,6 +84,7 @@
 - [A Practical Guide To Building Zero Knowledge dApps](https://kndrck.co/posts/practical_guide_build_zk_dapps/)
 - [Getting Started with zkSnarks on ZoKrates](https://blog.gnosis.pm/getting-started-with-zksnarks-zokrates-61e4f8e66bcc)
 - [ZK AUDITING FELLOWSHIP - yacademy](https://yacademy.dev/fellowships/zBlock1/)
+- [0xPARC learning group](https://learn.0xparc.org)
 
 ## Programming Languages 
 ### [Programming Languages in ZKP](https://medium.com/delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
@@ -98,6 +99,7 @@
 - [zkVM](https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf)
 - [ZKPDL](http://cs.brown.edu/research/brownie/usenix10.pdf)
 - [Lurk](https://github.com/lurk-lang/lurk/blob/master/spec/v0-1.md)
+- [Chiquito](https://github.com/privacy-scaling-explorations/chiquito)
   
 ## Libraries
 - [Libsnark](https://github.com/scipr-lab/libsnark)
@@ -233,7 +235,7 @@
 - [Zero-knowledge podcast](https://www.zeroknowledge.fm)
 - [ZK Tech](https://www.reddit.com/r/zkTech) : Reddit 
 - [0xPARC](https://0xparc.org/) : Supporting the next generation of cryptography-enabled applications.
-- [ZKProof](https://zkproof.org/) :  Open-Industry academic initiative
+- [ZKProof](https://zkproof.org/) : Open-Industry academic initiative
 
   
 ## Writeups 
