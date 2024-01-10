@@ -118,6 +118,7 @@
 - [Nova](https://github.com/microsoft/Nova)
 - [SnarkyJS](https://github.com/o1-labs/snarkyjs)
 - [DIZK](https://github.com/scipr-lab/dizk)
+- [halo2-lib](https://github.com/axiom-crypto/halo2-lib)
 
 ## Layer1 and Layer2
 ### Layer 1 
