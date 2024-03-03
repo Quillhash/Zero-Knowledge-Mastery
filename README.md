@@ -4,7 +4,7 @@
   <p align="center">
      <a href="https://blog.quillaudits.com/">
       <img alt="Website" src="https://blog.quillaudits.com/media/uploads/2021/10/common-sprite-new-1.png">
-    </a> 
+    </a>
     <br>
     <br>
     <a href="https://twitter.com/Quill_Academy">
@@ -13,29 +13,29 @@
     <a href="https://quillaudits.substack.com/">
       <img alt="Substack" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">
     </a>
-   
-  </p>                   
+
+  </p>
 </div>
 
 ![](https://github.com/Quillhash/Zero-Knowledge-Mastery/blob/main/files/Zero%20Knowledge%20Mastery.png)
 
-[Zero-Knowledge_Mastery.pdf](https://github.com/Quillhash/Zero-Knowledge-Mastery/blob/main/files/Zero%20Knowledge%20Mastery.pdf) 
+[Zero-Knowledge_Mastery.pdf](https://github.com/Quillhash/Zero-Knowledge-Mastery/blob/main/files/Zero%20Knowledge%20Mastery.pdf)
 
 ## Content
 1. [Introduction](#introduction)
 2. [Mathematical Knowledge](#mathematical-knowledge)
 3. [Courses](#courses)
-4. [Programming languages](#programming-languages) 
-5. [Libraries](#libraries) 
-6. [Layer1 and Layer2](#layer1-and-layer2) 
-7. [Puzzles](#puzzles) 
-8. [Books](#books) 
-10. [Papers](#papers) 
-11. [Application and Use Cases](#application-and-use-cases) 
-12. [Opensource Projects](#opensource-projects) 
-13. [Tools](#tools) 
+4. [Programming languages](#programming-languages)
+5. [Libraries](#libraries)
+6. [Layer1 and Layer2](#layer1-and-layer2)
+7. [Puzzles](#puzzles)
+8. [Books](#books)
+10. [Papers](#papers)
+11. [Application and Use Cases](#application-and-use-cases)
+12. [Opensource Projects](#opensource-projects)
+13. [Tools](#tools)
 14. [Tweets](#tweets)
-15. [Communities](#communities) 
+15. [Communities](#communities)
 16. [Writeups](#writeups)
 17. [Security](#security)
 <br>
@@ -58,7 +58,7 @@
   - [Part 1: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
   - [Part 2: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
   - [Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
-  
+
 
 
 ## Mathematical Knowledge
@@ -86,7 +86,7 @@
 - [ZK AUDITING FELLOWSHIP - yacademy](https://yacademy.dev/fellowships/zBlock1/)
 - [0xPARC learning group](https://learn.0xparc.org)
 
-## Programming Languages 
+## Programming Languages
 ### [Programming Languages in ZKP](https://medium.com/delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
 - [Cario](https://cairo-lang.org/docs/)
 - [Circom](https://docs.circom.io/)
@@ -100,7 +100,7 @@
 - [ZKPDL](http://cs.brown.edu/research/brownie/usenix10.pdf)
 - [Lurk](https://github.com/lurk-lang/lurk/blob/master/spec/v0-1.md)
 - [Chiquito](https://github.com/privacy-scaling-explorations/chiquito)
-  
+
 ## Libraries
 - [Libsnark](https://github.com/scipr-lab/libsnark)
 - [Bulletproofs](https://github.com/dalek-cryptography/bulletproofs)
@@ -121,7 +121,7 @@
 - [halo2-lib](https://github.com/axiom-crypto/halo2-lib)
 
 ## Layer1 and Layer2
-### Layer 1 
+### Layer 1
 - [Iron Fish](https://ironfish.network/)
 - [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Aleo](https://github.com/AleoHQ/aleo)
@@ -135,7 +135,7 @@
 - [Celo](https://celo.org/)
 
 
-### Layer 2 
+### Layer 2
 - [Aztec](https://aztec.network/)
 - [StarkNet](https://starkware.co/starknet/)
 - [ZEXE on Plasma](https://devpost.com/software/zexe-on-ethereum)
@@ -163,7 +163,7 @@
 - [Cachebox](https://github.com/qcomps/cachebox)
 - [Exgrasia](https://github.com/nalinbhardwaj/exgrasia)
 - [Crypto Maze](https://www.cryptomaze.app/)
-  
+
 
 ## Books
 - [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
@@ -171,14 +171,14 @@
 - [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual)
 
 
- 
+
 ## Papers
 - [Why and How zk-SNARK Works](https://arxiv.org/abs/1906.07221)
 - [zk research](https://zkresear.ch/)
 - [A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
 - [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://arxiv.org/pdf/1701.04439.pdf)
 
-  
+
 
 ## Application and Use Cases
 - [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/posts/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/)
@@ -210,12 +210,13 @@
 - [ZKaggle](https://ethglobal.com/showcase/zkaggle-70g3b)
 - [ZKPhoto](https://github.com/socathie/zkPhoto)
 
-  
+
 ## Tools
 - [ZK Toolkit](https://github.com/socathie/keras2circom)
 - [hello-noir: Hardhat x Foundry Template](https://github.com/socathie/hello-noir)
+- [covalenthq: Zk Data Analytics Tool](https://covalenthq.com)
 
-  
+
 
 ## Tweets
 - [I spent the past week reading hundreds of resources](https://twitter.com/jarrodWattsDev/status/1674312138402283520)
@@ -234,16 +235,16 @@
 ## Communities
 - [ZK Hack](https://discord.gg/rcCjDb8sya) : Discord Server
 - [Zero-knowledge podcast](https://www.zeroknowledge.fm)
-- [ZK Tech](https://www.reddit.com/r/zkTech) : Reddit 
+- [ZK Tech](https://www.reddit.com/r/zkTech) : Reddit
 - [0xPARC](https://0xparc.org/) : Supporting the next generation of cryptography-enabled applications.
 - [ZKProof](https://zkproof.org/) : Open-Industry academic initiative
 
-  
-## Writeups 
+
+## Writeups
 - [Hickup’s ZK Journey](https://www.notion.so/quillaudits/Hickup-s-ZK-Journey-affa9ce9cdf44a33b3549c37f908521a?pvs=4)
 - [Zero Knowledge Database : Notion ](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
 - [Zero Knowledge Blog](https://www.zeroknowledgeblog.com)
-  
+
 ## Security
 - [zk Bug Tracker - Github](https://github.com/0xPARC/zk-bug-tracker)
 - [Circom-Pairing: A Million-Dollar ZK Bug Caught Early](https://medium.com/veridise/circom-pairing-a-million-dollar-zk-bug-caught-early-c5624b278f25)
