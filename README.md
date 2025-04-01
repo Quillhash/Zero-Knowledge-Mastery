@@ -195,7 +195,7 @@
 - [zk-NftMint: Mint an NFT if you know a secret](https://github.com/weijiekoh/zknftmint)
 - [Loopring  zkRollup Exchange](https://medium.com/loopring-protocol/loopring-launches-zkrollup-exchange-loopring-io-d6a85beeed21)
 - [zk-SQL: Self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL)
-- [Hyper Oracle: Programmable zkOracle network ](https://hyperoracle.io/)
+- [Hyper Oracle: Programmable zkOracle network ](https://www.ora.io/)
 - [Foundation's Proof Market](https://proof.market.nil.foundation)
 - [Integrating Zerocash on Ethereum](https://github.com/clearmatics/zeth)
 
