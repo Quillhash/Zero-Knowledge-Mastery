@@ -90,7 +90,7 @@
 ### [Programming Languages in ZKP](https://medium.com/delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
 - [Cario](https://cairo-lang.org/docs/)
 - [Circom](https://docs.circom.io/)
-- [Noir](https://noir-lang.github.io/book/index.html)
+- [Noir](http://noir-lang.org/index.html)
 - [Snarky](https://github.com/o1-labs/snarky)
 - [Zinc](https://github.com/matter-labs/zinc)
 - [ZoKrates](https://zokrates.github.io/)
